@@ -38,13 +38,13 @@ Topics completed - Unicode characters, strings and web scraping
 ## 22-08-2020: 
 Completed the quiz and assignments
 ## 23-08-2020:
-
+Started with Data on the Web 
 ## 24-08-2020:
-
+Completed web using XML
 ## 25-08-2020:
-
+Completed web using JSON
 ## 26-08-2020:
-
+Completed the given task including assignments of XML and JSON
 ## 27-08-2020:
+Project Submitted
 
-## 28-08-2020:Project Submission
